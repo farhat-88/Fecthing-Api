@@ -34,6 +34,11 @@
  
 }
 
+.start-100{
+  left:85%!important;
+  z-index: 1;
+}
+
 .restart-loader{
     transition: height .2s linear;
     transition: all 0.5s ease-in-out;
